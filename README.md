@@ -13,3 +13,9 @@ Run `npm run build` to build the project.
 ## Running unit tests
 
 Run `npm run test` to execute the unit tests.
+
+## References
+
+Design Patterns
+
+https://refactoring.guru/design-patterns
