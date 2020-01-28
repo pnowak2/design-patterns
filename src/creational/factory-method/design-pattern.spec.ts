@@ -3,7 +3,7 @@ import { ConcreteCreator2 } from './concrete-creator-2';
 import { Creator } from './creator';
 
 describe('Factory Method', () => {
-    it('should ..', () => {
+    it('should delegate creation to subclass with abstract method', () => {
         function clientCode(creator: Creator): string {
             return creator.someOperation();
         }
